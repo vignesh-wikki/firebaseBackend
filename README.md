@@ -18,7 +18,6 @@ This project is a simple user management system backend built using FastAPI and 
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Conclusion](#conclusion)
-- [Appendix](#appendix)
 
 ## Getting Started
 
